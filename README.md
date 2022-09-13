@@ -4,8 +4,10 @@ I'm Zixun Wang, and I'm a junior front-end developer. I really enjoy build stuff
 
  
 
-<img src="https://metrics.lecoq.io/zwan669" style="display:inline" ></img>
-<img src="https://github-readme-stats.vercel.app/api?username=zwan669&show_icons=true" style="vertical-align: bottom;" align="justify" ></img>
+<img src="https://metrics.lecoq.io/zwan669" style="width:36%" align="center"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=zwan669&show_icons=true" style="width:58%" align="center" ></img>
+
+
 
 <h3 align="center">Languages and Tools:</h3>
 
