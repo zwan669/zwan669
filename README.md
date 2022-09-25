@@ -4,7 +4,6 @@ I'm Zixun Wang, and I'm a junior front-end developer. I really enjoy build stuff
 
  
 <p align="center">
- <img src="https://metrics.lecoq.io/zwan669" style="width:36%; border: margin-right:5%;" align="center"></img>
  <img src="https://github-readme-stats.vercel.app/api?username=zwan669&show_icons=true" style="width:58%" align="center" ></img>
 </p>
 
